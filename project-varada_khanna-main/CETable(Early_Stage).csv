@@ -1,0 +1,3 @@
+Strategy,Cost,Effect,Incremental Cost,Incremental Effect,ICER (with confidence interval)
+MONO,"17,915 (17,608, 18,221)","4.48 (4.43, 4.52)",-,-,-
+COMBO,"193,050 (190,894, 195,206)","9.83 (9.76, 9.91)","175,135 (171,266, 179,004)","5.36 (5.20, 5.52)","32,690.83 (32,334.47, 33,031.41)"
